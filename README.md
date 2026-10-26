@@ -54,7 +54,7 @@ fun_fact:   "I've fixed more bugs than I've written. Probably."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20playing!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FF1744,30:FF4FC3,60:BC4DFF,100:4287FF&section=footer&reversal=true" width="100%"/>
 
 <sub>Open to freelance and cool ideas.</sub>
 
