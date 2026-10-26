@@ -43,9 +43,9 @@ fun_fact:   "I've fixed more bugs than I've written. Probably."
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uxFluff/uxFluff/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uxFluff/uxFluff/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/uxFluff/uxFluff/output/github-snake.svg" />
 </picture>
 
 </div>
