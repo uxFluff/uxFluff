@@ -55,8 +55,8 @@
 
   <!-- title -->
   <g text-anchor="middle" font-family="'Courier New', Courier, monospace" font-weight="bold">
-    <text x="450" y="115" font-size="58" letter-spacing="8" fill="url(#title)" filter="url(#glow)">PLAYER ONE</text>
-    <text x="450" y="152" font-size="16" letter-spacing="5" fill="#e9d5ff">GAME DEVELOPER  //  LVL 99</text>
+    <text x="450" y="115" font-size="58" letter-spacing="8" fill="url(#title)" filter="url(#glow)">FIDHA</text>
+    <text x="450" y="152" font-size="16" letter-spacing="5" fill="#e9d5ff">GAME DEVELOPER  //  LVL 05</text>
     <text x="450" y="192" font-size="15" letter-spacing="4" fill="#facc15">PRESS START
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/>
     </text>
