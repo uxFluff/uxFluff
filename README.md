@@ -3,8 +3,8 @@
   
 <img src="assets/header.svg" alt="Fidha - Game Developer" width="100%" alt="GitHub Header"/>
 
-<a href="https://github.com/USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+worlds+one+frame+at+a+time;Gameplay+programmer+%7C+Tools+%7C+Shaders;Currently+shipping+my+next+indie+game;Coffee+%E2%86%92+Code+%E2%86%92+Bugs+%E2%86%92+Fun" alt="Typing SVG" />
+<a href="https://github.com/uxFluff">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF00A8&center=true&vCenter=true&width=640&lines=Building+worlds+one+frame+at+a+time;Gameplay+programmer+%7C+Tools+%7C+Shaders;Currently+shipping+my+next+indie+game;Coffee+%E2%86%92+Code+%E2%86%92+Bugs+%E2%86%92+Fun" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,11 +30,28 @@ fun_fact:   "I've fixed more bugs than I've written. Probably."
 
 </div>
 
-<h1 style="monospace">SKILLS</h1>
 
+## Programming Languages
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,figma,firebase,css,python,blender,vscode&perline=12" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,css,html&perline=12" alt="Tech stack"/>
+<br>
+
+
+## Frameworks and Libraries
+<img src="https://skillicons.dev/icons?i=vue,vite,tailwindcss,flutter,react,nodejs&perline=12" alt="Tech stack"/>
+<br>
+
+
+
+## 3D Tools
+<img src="https://skillicons.dev/icons?i=blender&perline=12" alt="Tech stack"/>
+<br>
+
+
+## Development Tools
+<img src="https://skillicons.dev/icons?i=vscode,figma&perline=12" alt="Tech stack"/>
+<br>
 
 </div>
 <hr>
