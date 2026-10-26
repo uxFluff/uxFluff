@@ -30,26 +30,30 @@ fun_fact:   "I've fixed more bugs than I've written. Probably."
 
 </div>
 
-## 🧰 Inventory
+<h1 style="monospace">SKILLS</h1>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,unreal,godot,cs,cpp,rust,python,blender,git,vscode,github,discord&perline=12" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=js,figma,firebase,css,python,blender,vscode&perline=12" alt="Tech stack"/>
 
 </div>
-
-
-
-
-<div align="center">
+<hr>
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uxFluff/uxFluff/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uxFluff/uxFluff/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/uxFluff/uxFluff/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/vijay-011/vijay-011/output/pacman-contribution-graph-dark.svg" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/vijay-011/vijay-011/output/pacman-contribution-graph.svg" />
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/vijay-011/vijay-011/output/pacman-contribution-graph.svg"
+    width="100%" />
 </picture>
-
-</div>
+<br>
+<hr>
 
 
 
