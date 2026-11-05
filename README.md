@@ -4,7 +4,7 @@
 <img src="assets/header.svg" alt="Fidha - Game Developer" width="100%" alt="GitHub Header"/>
 
 <a href="https://github.com/uxFluff">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF00A8&center=true&vCenter=true&width=640&lines=Building+worlds+one+frame+at+a+time;Gameplay+programmer+%7C+Tools+%7C+Shaders;Currently+shipping+my+next+indie+game;Coffee+%E2%86%92+Code+%E2%86%92+Bugs+%E2%86%92+Fun" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF00A8&center=true&vCenter=true&width=640&lines=Building+worlds+one+frame+at+a+time;Gameplay+programmer+%7C+Blender+%7C+React;Currently+debugging+;Coffee+%E2%86%92+Code+%E2%86%92+Bugs+%E2%86%92+Fun" alt="Typing SVG" />
 </a>
 
 <br/>
